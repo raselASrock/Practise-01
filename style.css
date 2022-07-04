@@ -4,6 +4,16 @@
 }
 .top-banner-flexible-container{
     display: flex;
+    background-image: url(eat-healthy/images/shapes/Frame\ 57.jpg);
+    background-position: 100%;
+}
+.middle-banner-flexible-container{
+    display: flex;
+    background-image: url(eat-healthy/images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    padding-top: 50px;
+    background-position: 100%;
+    
 }
 button{
     background-image: Linear-gradient(rgb(23, 172, 199), rgb(4, 113, 156));
@@ -30,4 +40,9 @@ p{
     font-weight: 400;
     text-align: justify;
     
+}
+#about-me{
+    color:rgb(0, 168, 247);
+    font-size: 60px;
+    text-align: center;
 }
